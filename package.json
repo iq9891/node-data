@@ -10,7 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "excel-stream": "^1.1.1",
+    "json2xls": "^0.1.2",
     "jsonexcel": "^1.0.1",
+    "request": "^2.75.0",
     "xls-to-json": "^0.3.2"
   }
 }
